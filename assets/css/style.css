@@ -144,7 +144,7 @@ p.main-banner-p {
 .container-fluid.main-banner-bh {
   background: #1e1e1e;
   padding-top: 74px;
-  position: relative;
+  position: relative; /* Add this line */
 }
 
 img.bh-property-1-default {
@@ -258,6 +258,8 @@ p.svff-p {
 
 .cta-text {
   background: #1e1e1e;
+  /* position: relative;
+  top: -68px; */
 }
 
 h2.bh-cta-text {
@@ -272,11 +274,14 @@ h2.bh-cta-text {
   letter-spacing: -2.142px;
   text-transform: uppercase;
   margin: 0;
+  /* position: relative;
+  left: -63px; */
 }
 .customer-testimonal {
   background: #1e1e1e;
   padding-top: 60px;
-
+  /* position: relative;
+  top: -80px; */
 }
 
 img.ct-rec-21 {
@@ -288,6 +293,8 @@ img.ct-rec-21 {
   padding-top: 60px;
   position: relative;
   height: 19vh;
+  /* top: -80px;
+  height: 23vh; */
 }
 
 img.vec-left-21 {
@@ -333,11 +340,16 @@ img.vec-left-22 {
 .customer-testimonal-right {
   background: #1e1e1e;
   padding-top: 0px;
+  /* position: relative; */
   height: 5vh;
+  /* top: -80px;
+    height: 23vh; */
 }
 footer.bh--footer {
   background: #1e1e1e;
   padding: 50px;
+  /* position: relative;
+    top: -83px; */
 }
 .mf-sub-sec {
   border-radius: 30px;
