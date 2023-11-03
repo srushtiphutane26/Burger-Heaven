@@ -67,14 +67,6 @@
 }
 }
 
-/* Media query for 14-inch laptops with a resolution of 1920x1080 (Full HD) */
-@media (max-width: 1920px) and (max-height: 1080px) {
-}
-
-/* Media query for 14-inch laptops with a resolution of 2560x1440 (2K) */
-@media (max-width: 2560px) and (max-height: 1440px) {
-}
-
 /* RESPONSIVE MOBILE FIXES */
 
 @media only screen and (max-width: 767px),
